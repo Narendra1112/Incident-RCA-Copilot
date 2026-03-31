@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# optional (recommended)
+app/data/processed/*.npy
+app/data/processed/*.index
+app/data/processed/*.json
+
+# OS
+.DS_Store
+Thumbs.db
